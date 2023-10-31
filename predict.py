@@ -56,6 +56,7 @@ class Predictor(BasePredictor):
                 "768-v-ema.ckpt",
                 "512-base-ema.ckpt",
                 "Protogen_V2.2.ckpt",
+                "Realistic_Vision_V5.1.safetensors",
                 "v1-5-pruned.ckpt",
                 "v1-5-pruned-emaonly.ckpt",
                 "sd-v1-4.ckpt",
