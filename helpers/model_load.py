@@ -97,7 +97,6 @@ def load_model(root, load_on_run_all=True, check_sha256=True, map_location="cuda
             'sha256': '00445494c80979e173c267644ea2d7c67a37fe3c50c9f4d5a161d8ecdd96cb2f',
             'url': 'https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1.safetensors',
             'requires_login': False,
-            }
         }
     }
 

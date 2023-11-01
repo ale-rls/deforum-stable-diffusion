@@ -64,7 +64,7 @@ class Predictor(BasePredictor):
                 "wd-v1-3-float16.ckpt",
             ],
             description="Choose stable diffusion model.",
-            default="Protogen_V2.2.ckpt",
+            default="Realistic_Vision_V5.1.safetensors",
         ),
         max_frames: int = Input(
             description="Number of frames for animation", default=200
